@@ -1,0 +1,8 @@
+[Unit]
+Description=Realtime kernel configuration
+ 
+[Service]
+ExecStart=/usr/bin/realtime.sh
+ 
+[Install]
+WantedBy=multi-user.target
