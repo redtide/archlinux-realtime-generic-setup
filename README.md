@@ -14,12 +14,6 @@ listed in the [ArchWiki], to add at the end of `/etc/pacman.conf` to avoid to bu
 [dvzrv]
 Server = https://pkgbuild.com/~dvzrv/repo/$arch
 ```
-and
-
-```
-[coderkun-aur-audio]
-Server = http://arch.suruatoel.xyz/$repo/$arch/
-```
 
 [Professional audio ArchWiki]: https://wiki.archlinux.org/index.php/Professional_audio#System_configuration
 [AUR package]: https://aur.archlinux.org/packages/realtime-generic-setup
