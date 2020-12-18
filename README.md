@@ -12,8 +12,8 @@ If you want to install the [Linux RT kernel] in [AUR] and avoid to build it from
 you can add the following [package repository] at the end of `/etc/pacman.conf`:
 
 ```
-[dvzrv]
-Server = https://pkgbuild.com/~dvzrv/repo/$arch
+[realtime]
+Server = https://pkgbuild.com/~dvzrv/repos/realtime/$arch
 ```
 
 [Professional audio ArchWiki]: https://wiki.archlinux.org/index.php/Professional_audio#System_configuration
